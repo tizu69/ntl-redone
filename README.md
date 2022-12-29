@@ -1,6 +1,8 @@
 <p align="center"><img src="./ntl.png" alt="Logo" width="200"></p>
 <h1 align="center">Create NTL Redone<br></h1>
 
+<a href="https://discord.gg/ADA8rSBBpq">Check out our Discord!</a>
+
 <h3 align="center">Download instructions below, read tho!!</h3>
 
 <p>Create NTL Redone is a mod of Create (meaning that you'll have to replace this with your Create mod, but I'm also working on an addon mod).</p>
