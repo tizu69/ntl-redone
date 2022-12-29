@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/SXaePW6.png" alt="Logo" width="200"></p>
+<p align="center"><img src="./ntl.png" alt="Logo" width="200"></p>
 <h1 align="center">Create NTL Redone<br></h1>
 
 <h3 align="center">Download instructions below, read tho!!</h3>
