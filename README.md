@@ -1,7 +1,7 @@
 <p align="center"><img src="./ntl.png" alt="Logo" width="200"></p>
 <h1 align="center">Create NTL Redone<br></h1>
 
-<a href="https://discord.gg/ADA8rSBBpq">Check out our Discord!</a>
+<a href="https://discord.gg/2ubhDbMaZY">Check out our Discord!</a>
 
 <h3 align="center">Download instructions below, read tho!!</h3>
 
